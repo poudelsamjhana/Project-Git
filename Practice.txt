@@ -5,3 +5,5 @@ This is my first step to Git Hub
 Thank You
 
 Working on 2nd Commit
+
+Working on 3rd commit from terminal to local
